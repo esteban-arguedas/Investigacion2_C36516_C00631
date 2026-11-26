@@ -1,0 +1,6 @@
+h2 iperf -s &
+h3 iperf -s -u &
+h1 iperf -c 10.0.2.2 -t 15 &
+h4 iperf -c 10.0.3.3 -u -b 1M -t 15 &
+h3 ping -c 15 10.0.1.1 &
+h2 python3 send_traffic.py --dst 10.0.4.4 --other 50 --out /tmp/otros.json

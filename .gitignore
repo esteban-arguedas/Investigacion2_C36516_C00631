@@ -1,0 +1,8 @@
+build/
+logs/
+pcaps/
+*.pcap
+__pycache__/
+expected.json
+elephants.log
+*.mp4
