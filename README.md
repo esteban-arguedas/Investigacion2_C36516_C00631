@@ -8,7 +8,7 @@ Investigación y laboratorio base — Curso de Redes de Computadoras.
 | `lab1-router/` | Implementación 1: Router IPv4 estático |
 | `lab2-counters/` | Implementación 2: Contadores y estadísticas de tráfico |
 | `informe/` | `informe.pdf` |
-| Video | [Enlace al video demostrativo](PENDIENTE) |
+| Video | [Enlace al video demostrativo](https://youtu.be/vw478y2Vs0Y) |
 
 ## Entorno
 VM oficial de P4 de `p4lang/tutorials` (Ubuntu 24.04) con p4c, BMv2, Mininet, Scapy e iperf.
